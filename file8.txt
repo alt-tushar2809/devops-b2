@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 example text
+=======
+test1 text
+>>>>>>> test1
