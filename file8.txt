@@ -2,4 +2,5 @@
 test1 text
 =======
 example text
+example 3
 >>>>>>> test2
