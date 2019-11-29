@@ -7,4 +7,5 @@ example text
 example 3
 example text
 example 3
+example 4
 >>>>>>> test2
